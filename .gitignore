@@ -11,6 +11,7 @@ mariadb-data
 mariadb-init
 filecache/
 vendor/
+libraries/
 bin
 drush/contrib
 drush/libraries
